@@ -1,1 +1,1 @@
-{"source_version": "dev5.2.0.4"}
+{"source_version": "dev5.2.0.5"}
